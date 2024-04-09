@@ -20,7 +20,8 @@ Program to implement univariate Linear Regression to fit a straight line using l
 Developed by: KISHORE M
 RegisterNumber: 2305002012
 ```
-```import numpy as np
+```
+import numpy as np
 a = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 b = np.array([-9,4,-1])
 solution=np.linalg.solve(a,b)
@@ -32,7 +33,7 @@ print(solution)
 #program to find the solution for the given Linear equation
 #Developed by:KISHORE M
 #RegisterNumber:2305002012
-``
+```
 <img width="941" alt="LINERAR EQUATION OUTPUT" src="https://github.com/kishore07062005/SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/156066116/55f5017c-a187-410e-a1d2-b9c1bac5ba53">
 
 ## Result: 

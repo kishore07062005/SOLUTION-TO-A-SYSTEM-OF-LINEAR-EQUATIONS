@@ -26,6 +26,7 @@ print(solution)
 ```
 ## Output:
 <img width="774" alt="Ss linear" src="https://github.com/kishore07062005/SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/156066116/275a7a16-75aa-4e04-9e63-286a7f898a02">
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
